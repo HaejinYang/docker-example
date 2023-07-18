@@ -8,7 +8,7 @@ RUN apt-get update && \
 RUN a2enmod rewrite
 
 RUN mv "$PHP_INI_DIR/php.ini-development" "$PHP_INI_DIR/php.ini"
-RUN pecl install xdebug && docker-php-ext-enable xdebug
+RUN pecl install xdebug
 RUN docker-php-ext-install pdo_mysql zip opcache && docker-php-ext-enable pdo_mysql zip opcache
 COPY conf.d /usr/local/etc/php/conf.d
 
