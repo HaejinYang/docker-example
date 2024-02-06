@@ -9,5 +9,3 @@ services:
       - .:/var/www/html
     command: sh -c "./start.sh && apachectl -D FOREGROUND"
     restart: always
-    env_file:
-      - .env
