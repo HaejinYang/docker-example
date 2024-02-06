@@ -1,0 +1,15 @@
+/var/log/test.log {
+    size 10
+    missingok
+    rotate 7
+    compress
+    delaycompress
+    notifempty
+    create 640 root adm
+    sharedscripts
+    postrotate
+        if /etc/init.d/apache2 status > /dev/null ; then \
+            /etc/init.d/apache2 reload > /dev/null; \
+        fi
+    endscript
+}

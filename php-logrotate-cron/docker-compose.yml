@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  php:
+    build: ./docker/php/
+    ports:
+      - "12345:80"
+    volumes:
+      - .:/var/www/html
+      - ./docker/cron.d/echo:/etc/cron.d/echo
+      - ./docker/cron.d/rotate:/etc/cron.d/rotate
+      - ./docker/logrotate.d/test:/etc/logrotate.d/test
+      - ./docker/php/conf.d:/usr/local/etc/php/conf.d
+    command: sh -c "./start.sh && apachectl -D FOREGROUND"
+    restart: always
