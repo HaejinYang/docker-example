@@ -24,3 +24,8 @@ composer를 이용하여 재설치하는 것으로 응답 속도를 개발` `가
 설정파일을 볼륨 마운팅으로 했었다. 이러면 도커 컨테이너 안에서 실행한 설정파일 업데이트가 무효화되어, 볼륨 마운팅이 아니라 복사로 변경함.
 컨테이너 안에서 `composer install` 명령어를 실행하기 위해 docker-compose.yml의 commands속성을 이용함.
 
+## vue-deploy
+멀티스테이징을 이용하여 vue를 빌드한 후, 아파치 웹서버를 이용하여 서빙함. [관련링크](https://crmerry.tistory.com/228)
+
+## php-logrotate-cron
+logrotate와 cron 사용을 정리. [관련링크](https://crmerry.tistory.com/271)
