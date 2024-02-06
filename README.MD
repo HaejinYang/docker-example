@@ -29,3 +29,6 @@ composer를 이용하여 재설치하는 것으로 응답 속도를 개발` `가
 
 ## php-logrotate-cron
 logrotate와 cron 사용을 정리. [관련링크](https://crmerry.tistory.com/271)
+
+## php-apache
+php-basic, debug, logrotate-cron 등을 합친 종합적인 php-apache 세팅
