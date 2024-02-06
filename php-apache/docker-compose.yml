@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  webserver:
+    build: .
+    ports:
+      - "12345:80"
+    volumes:
+      - .:/var/www/html
+    command: sh -c "./start.sh && apachectl -D FOREGROUND"
+    restart: always
+    env_file:
+      - .env
