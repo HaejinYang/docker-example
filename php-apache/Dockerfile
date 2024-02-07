@@ -8,7 +8,10 @@ RUN apt-get update && \
     curl \
     libcurl4-openssl-dev \
     cron \
-    logrotate
+    logrotate \
+    certbot  \
+    python3-certbot-apache \
+    vim
 
 RUN pecl install xdebug \
     && docker-php-ext-enable xdebug
