@@ -2,3 +2,271 @@
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
 [Wed Feb 07 09:22:02.091883 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
 [Wed Feb 07 09:22:02.092394 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:23:01.183969 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:23:01.230177 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:23:01.230648 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:25:01.307320 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:25:01.334770 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:25:01.335115 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:26:01.422572 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:26:01.443029 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:26:01.443326 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:27:01.546653 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:27:01.566280 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:27:01.566601 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:29:01.714767 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:29:01.737252 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:29:01.737551 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:30:01.835902 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:30:01.855096 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:30:01.855369 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:31:01.943437 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:31:01.964625 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:31:01.964954 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:33:02.079438 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:33:02.139671 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:33:02.140077 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:35:01.208125 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:35:01.230765 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:35:01.231227 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:36:01.320982 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:36:01.339634 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:36:01.339940 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:38:01.447832 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:38:01.480867 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:38:01.481175 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:40:01.564979 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:40:01.583749 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:40:01.584087 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:42:01.688720 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:42:01.707768 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:42:01.708003 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:44:01.806280 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:44:01.824962 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:44:01.825315 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:45:01.920795 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:45:01.942795 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:45:01.943465 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:47:02.049506 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:47:02.068947 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:47:02.069291 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:49:01.169388 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:49:01.189747 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:49:01.190179 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:50:01.281158 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:50:01.300131 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:50:01.300400 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:52:01.404353 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:52:01.426051 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:52:01.426295 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:53:01.513990 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:53:01.532757 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:53:01.533019 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:55:01.638381 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:55:01.703362 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:55:01.703984 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:56:01.744253 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:56:01.764097 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:56:01.764344 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:57:01.911486 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:57:02.016011 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:57:02.016489 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 09:58:02.036710 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:58:02.056825 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 09:58:02.057075 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:00:01.161027 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:00:01.185250 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:00:01.185577 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:01:01.275412 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:01:01.295869 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:01:01.296150 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:02:01.380824 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:02:01.400324 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:02:01.400977 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:03:01.492635 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:03:01.510464 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:03:01.510687 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:04:01.597205 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:04:01.616889 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:04:01.617091 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:05:01.713430 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:05:01.734557 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:05:01.734852 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:07:01.835888 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:07:01.855086 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:07:01.855402 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:08:01.941831 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:08:01.962435 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:08:01.962826 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:10:02.070832 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:10:02.091286 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:10:02.091573 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:11:01.179989 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:11:01.199684 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:11:01.199869 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:13:01.314679 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:13:01.333673 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:13:01.333968 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:14:01.422387 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:14:01.443592 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:14:01.443890 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:15:01.530222 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:15:01.549055 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:15:01.549324 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:16:01.647736 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:16:01.667156 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:16:01.667440 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:18:01.776448 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:18:01.797190 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:18:01.797528 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:19:01.888348 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:19:01.910474 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:19:01.910811 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:21:02.000889 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:21:02.021571 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:21:02.021843 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:23:01.127169 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:23:01.146110 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:23:01.146353 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:24:01.247724 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:24:01.266064 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:24:01.266309 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:25:01.356548 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:25:01.373808 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:25:01.374043 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:27:01.485283 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:27:01.504881 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:27:01.505109 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:29:01.607322 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:29:01.626875 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:29:01.627090 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:31:01.749424 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:31:01.769123 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:31:01.769460 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:32:01.859189 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:32:01.879285 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:32:01.879588 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:33:01.970206 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:33:01.995110 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:33:01.995450 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:34:02.085563 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:34:02.106228 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:34:02.106487 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:35:01.211433 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:35:01.230254 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:35:01.230475 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:37:01.339877 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:37:01.358547 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:37:01.358763 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:39:01.468089 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:39:01.491061 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:39:01.491280 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:40:01.574799 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:40:01.595359 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:40:01.595675 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:41:01.677606 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:41:01.696606 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:41:01.696936 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:43:01.805167 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:43:01.827666 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:43:01.828032 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:44:01.920268 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:44:01.961061 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:44:01.961431 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:46:02.040719 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:46:02.063314 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:46:02.063706 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:48:01.167546 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:48:01.187638 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:48:01.187872 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:49:01.274837 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:49:01.295025 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:49:01.295431 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:51:01.405620 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:51:01.424581 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:51:01.424794 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:52:01.517237 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:52:01.540404 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:52:01.540643 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:54:01.667566 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:54:01.687674 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:54:01.688050 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:56:01.804469 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:56:01.844950 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:56:01.845443 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:57:01.914030 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:57:01.933648 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:57:01.933889 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:58:02.012976 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:58:02.034639 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:58:02.035013 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Feb 07 10:59:01.124265 2024] [mpm_prefork:notice] [pid 25] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:59:01.148181 2024] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Feb 07 10:59:01.148502 2024] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

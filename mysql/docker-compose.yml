@@ -5,11 +5,13 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     restart: always
     ports:
-      - 0.0.0.0:5051:3306
+      - 0.0.0.0:7070:3306
     environment:
-      MYSQL_ROOT_PASSWORD: "${DB_ROOT_PASSWORD}"
-      MYSQL_DATABASE: "${DB_NAME}"
-      MYSQL_USER: "${DB_USER_ID}"
-      MYSQL_PASSWORD: "${DB_USER_PASSWORD}"
+      MYSQL_ROOT_PASSWORD: "asdzxcasdad"
+      MYSQL_DATABASE: "abcd"
+      MYSQL_USER: "mysql-normal-user"
+      MYSQL_PASSWORD: "asdzxcasdad"
     volumes:
-      - ./mysql/lib:/var/lib/mysql
+      - ./docker/mysql/data:/var/lib/mysql
+      - ./docker/mysql/log:/var/log/mysql
+      - ./docker/mysql/conf.d:/etc/mysql/conf.d
