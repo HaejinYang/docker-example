@@ -10,7 +10,9 @@ php-apache 이미지를 활용하여 도커에서 실행 확인
 php-apche 이미지와 xdebug를 이용하여 PHPStorm에서 라인브레이크가 가능한 디버그 확인
 
 ## mysql
-mysql 공식 이미지를 활용하여 볼륨마운팅과 함께 mysql 실행
+mysql 공식 이미지를 활용하여 myslq 운영에 필요한 설정, 데이터, 로그를 볼륨 마운팅으로 적용할 수 있게 수정
+### 주의할 점
+mysql은 world writable config 파일을 무시하므로, 새로 추가하거나 기존에 있는 cnf파일을 읽기속성으로 수정해야함
 
 ## laravel-basic
 php-apache, mysql 이미지를 활용하여 라라벨 프레임워크 실행 확인. vendor를 제외한 나머지 코드를 볼륨 마운팅하고, vendor는 컨테이너 실행 후
