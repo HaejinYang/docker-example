@@ -34,3 +34,24 @@ logrotate와 cron 사용을 정리. [관련링크](https://crmerry.tistory.com/2
 
 ## php-apache
 php-basic, debug, logrotate-cron 등을 합친 종합적인 php-apache 세팅
+
+## php-apache-front-controller
+php-apache 버전에 front controller을 적용
+
+# 문제 해결
+
+## docker-compose에서 shell script 실행이 안됨
+
+```
+command: sh -c "./start.sh && apachectl -D FOREGROUND"
+```
+위와 같은 command 명령으로 ./start.sh를 실행했는데 안되면 살펴볼 내용
+
+1. 실행할 수 있는 권한과 유저인지
+1. crlf가 아니라 lf 라인 엔딩인지 확인
+
+## .htaccess가 적용 안됨
+
+1. document root가 어디인지 확인
+1. a2enmod rewrite로 다시 룰을 적용할 수 있게 하였는지 확인
+1. site-avaiable 등에서 Override 할 수 있게 했는지 확인
