@@ -38,6 +38,9 @@ php-basic, debug, logrotate-cron 등을 합친 종합적인 php-apache 세팅
 ## php-apache-front-controller
 php-apache 버전에 front controller을 적용
 
+## php-apache-front-controller-mysql
+php-apache 버전에 front controller을 적용하고, mysql을 같이 적용
+
 # 문제 해결
 
 ## docker-compose에서 shell script 실행이 안됨
