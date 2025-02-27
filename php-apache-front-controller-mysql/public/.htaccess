@@ -1,0 +1,8 @@
+RewriteEngine On
+# !-d: directory not matched
+RewriteCond %{REQUEST_FILENAME} !-d
+# !-f: file not matched
+RewriteCond %{REQUEST_FILENAME} !-f
+# NC : No Case, case-insensitive.
+# L : Last, no further rules should be processed.
+RewriteRule !^(css|images|files)/ index.php [NC,L]
