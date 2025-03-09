@@ -1,5 +1,5 @@
 .idea
 .env
 
-nginx-php-fpm/app/vendor
-nginx-php-fpm/mysqldata
+*/app/vendor
+*/mysqldata

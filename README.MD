@@ -59,6 +59,10 @@ php-apache 버전에 front controller을 적용하고, mysql을 같이 적용
 
 nginx, php-fpm, mysql 설치한 버전. composer가 적용된 상태
 
+## nginx-php-fpm-xdebug
+
+nginx-php-fpm에 xdebug를 적용하여 스텝 디버깅까지 확인한 것
+
 # 문제 해결
 
 ## docker-compose에서 shell script 실행이 안됨

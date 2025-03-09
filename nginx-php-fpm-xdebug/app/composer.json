@@ -1,0 +1,21 @@
+{
+  "name": "my_service/app",
+  "version": "1",
+  "autoload": {
+    "psr-4": {
+      "MyService\\App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "HaejinYang",
+      "email": "haejin.yang91@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "vendor/bin/phpunit tests"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.5"
+  }
+}
