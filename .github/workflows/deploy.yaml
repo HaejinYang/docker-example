@@ -14,4 +14,3 @@ jobs:
       - name: 테스트
         working-directory: ./nginx-php-fpm-xdebug-actions/app
         run: composer test
-      - run: docker build --target
