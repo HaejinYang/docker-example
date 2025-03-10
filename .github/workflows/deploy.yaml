@@ -1,0 +1,17 @@
+name: MyService
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: 컴포저 의존성 설치
+        working-directory: ./app
+        run: composer install --prefer-dist
+      - name: 테스트
+        working-directory: ./app
+        run: composer test
+      - run: docker build --target
