@@ -10,7 +10,7 @@ ENV COMPOSER_ALLOW_SUPERUSER=1
 
 COPY --from=composer /usr/bin/composer /usr/bin/composer
 
-COPY ./app/composer.* ./
+COPY ./composer.* ./
 
 # Composer로 모듈 설치시, --no-dev 옵션에 의하여 dev 의존성을 지닌 모듈이 설치되지 않는다.
 # 이때, Laravel의 env가 production이 아니라면, dev 의존성을 필요로 하기에, 필요한 모듈이 설치되지 않을 수 있다.
@@ -19,7 +19,7 @@ RUN composer install --prefer-dist \
     $(if [ "$APP_ENV" = "production" ]; then echo "--no-dev"; fi) \
     --no-scripts --no-progress --no-interaction
 
-COPY ./app .
+COPY . .
 
 RUN composer dump-autoload --optimize
 

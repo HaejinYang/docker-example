@@ -3,7 +3,7 @@ services:
   web:
     image: nginx:1.27.4
     ports:
-      - "10100:80"
+      - "${WEB_OUTER_PORT}:${WEB_PORT}"
     volumes:
       - ./nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf
   # php
@@ -13,7 +13,7 @@ services:
       target: app_dev
     volumes:
       - /var/www/html/vendor
-      - ./app:/var/www/html
+      - ./:/var/www/html
       - ./nginx/log:/var/log/nginx
   # mysql
   db:
@@ -21,12 +21,12 @@ services:
     volumes:
       - ./mysqldata:/var/lib/mysql
     ports:
-      - "3306:3306"
+      - "${DB_OUTER_PORT}:${DB_PORT}"
     restart: unless-stopped
     environment:
-      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
-      MYSQL_USER: ${MYSQL_USER}
-      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
-      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MYSQL_USER: ${DB_USERNAME}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_DATABASE}
 
   # redis
