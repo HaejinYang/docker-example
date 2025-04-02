@@ -14,6 +14,7 @@ services:
     volumes:
       - /var/www/html/vendor
       - ./app:/var/www/html
+      - ./nginx/log:/var/log/nginx
   # mysql
   db:
     image: mysql:8.0
