@@ -28,4 +28,4 @@ FROM app as app_dev
 
 RUN install-php-extensions xdebug 
 
-COPY ./php/conf.d/xdebug.ini /usr/local/etc/php/conf.d/xdebug.ini
+COPY ./docker/php/conf.d/xdebug.ini /usr/local/etc/php/conf.d/xdebug.ini

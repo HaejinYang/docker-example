@@ -1,0 +1,23 @@
+[mysqld]
+server_id=1
+
+# binary log
+log_bin=/var/lib/mysql/bin.log
+binlog_format=ROW
+expire_logs_days=3
+binlog_checksum=NONE
+binlog_row_image=FULL
+
+# error log
+log_error=/var/log/mysql/error.log
+
+# general log
+general_log=ON
+log_output=FILE
+general_log_file=/var/log/mysql/general.log
+
+# slow query
+slow_query_log=ON
+slow_query_log_file=/var/log/mysql/slow.log
+long_query_time=1
+log-queries-not-using-indexes
